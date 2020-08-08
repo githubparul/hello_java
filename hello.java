@@ -1,4 +1,4 @@
 public class hello {
 public static void main(string[] args) {
-system.out.println ("hello github");
+System.out.println ("hello github");
 }}
